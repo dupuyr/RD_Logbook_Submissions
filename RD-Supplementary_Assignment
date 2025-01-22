@@ -1,0 +1,35 @@
+
+-	Preparing for and sitting an industry certification can teach you several valuable lessons that are highly applicable to your career as a software developer. Here are some key takeaways:
+-	1. Structured Learning and Discipline
+-	Lesson: Preparing for a certification often requires following a structured study plan and maintaining discipline.
+-	Application: Apply this structured approach to learning new programming languages, frameworks, or tools. Set clear goals and timelines for your learning process.
+-	2. Time Management
+-	Lesson: Balancing study time with other responsibilities teaches effective time management.
+-	Application: Use these time management skills to juggle multiple projects, meet deadlines, and allocate time for continuous learning and development.
+-	3. Problem-Solving Skills
+-	Lesson: Certification exams often include complex problems that require critical thinking and problem-solving.
+-	Application: Enhance your debugging and problem-solving skills in software development by practicing with real-world scenarios and coding challenges.
+-	4. Attention to Detail
+-	Lesson: Success in certification exams often depends on paying close attention to details.
+-	Application: Apply this attention to detail when writing and reviewing code to ensure high-quality, bug-free software.
+-	5. Stress Management
+-	Lesson: Sitting for an exam can be stressful, and learning to manage this stress is crucial.
+-	Application: Use stress management techniques to stay calm and focused during tight deadlines or challenging projects.
+-	6. Continuous Improvement
+-	Lesson: Preparing for a certification often involves identifying and improving on weak areas.
+-	Application: Regularly review your work, seek feedback, and continuously improve your coding practices and knowledge base.
+-	7. Networking and Collaboration
+-	Lesson: Certification courses and study groups can provide opportunities to network and collaborate with peers.
+-	Application: Leverage these networking skills to collaborate effectively with team members, participate in developer communities, and stay updated with industry trends.
+-	By applying these lessons, you can enhance your skills, productivity, and overall effectiveness as a software developer. Do you have a specific certification in mind, or are you looking for general advice?
+-	
+
+Compose a brief review of your experience preparing for and sitting the industry certification examination.
+Lesson learned	Impact on exam preparation	How this lesson will be applied in the future
+
+Understanding why some answers are wrong and others right.	As part of my preparation for the exam, I researched past exam questions in order to get a better understanding of what I should expect in the real exam. This involved analysing each possible answer for each question and evaluating whether it was correct or incorrect. By doing this, I was able to understand the reasoning behind why each prospective answer was right or wrong, which had a profound impact on my preparedness for the exam as it allowed me to use my newfound knowledge to deduce the correct answers to other questions. I was able to comprehend terms, clauses and statements that reoccurred in questions and answers and find the correct answers.	I can apply this lesson when working on any projects in the future. It will be especially useful when deciding how to implement code to achieve a certain sort of functionality in a program.  This could include determining what the best way to fetch data from a server or database is and understanding why some solutions are better than others and why some do not work at all or deciding which way to fill out a generated PDF file and understanding the reasoning behind why some solutions will be more correct than others and why some will not function or require extra steps.
+ 
+The importance of checking code syntax. 	When learning about SQL and preparing for the exam, syntax errors were a common occurrence in my work and research. Syntax is a common reason why code will not function, or an SQL query will be incorrect. Many of the past exam questions I researched involved recognising slight syntax differences which could affect the functionality of the code. By doing this research, I was able to acquire a better understanding of how the syntax of an SQL query can affect its outcome, which had a profound impact on my preparedness for the exam as I was able to learn more about the syntax of SQL queries as well as deduce the answers to some of the questions as a result.	I can also apply this lesson when working on any projects in the future, especially when working with SQL queries. Checking for Syntax errors is an important part of coding in general and extending this to include syntax differences in code will enhance my skills even further. This could include ensuring the correct form of quotation marks are used (“, `, ‘) as some of the quotation marks have specific functions in specific circumstances and using the wrong type will lead to errors or different functionality than is expected, or validating that the correct variable/data type is used as some may have the similar functionality such as the addition/subtraction of int/char in SQL and this will only become apparent when other implementations are attempted and errors will occur.
+
+Testing and analysing code	When researching the past exam questions and trying to deduce the correct answers, testing and analysing any of the code snippets was essential in understanding whether they may be correct or incorrect. Running code to see if any errors occur and analysing any of these errors if they should occur, is a fundamental aspect of programming. Many of the incorrect answers to questions centred around code required some testing and analysis in order to determine why they were incorrect; Testing it by running it with some test data and analysing the result to understand why it had produced such a result, be it an error or a different output than is required. By doing this I was able to obtain a better understanding of the importance of testing and analysing code to gain knowledge of its functionality and how to format it correctly so it will function correctly.	I can apply this lesson to any projects that I work on in the future. It will be essential when writing code in order to achieve a required functionality. This could include determining the best way to generate the correct output for a program such as a generated PDF by coding a solution, running it to deduce whether the correct results have been obtained and if incorrect results are obtained, debugging the code to understand why the results were incorrect, or deciding how to produce the correct data by writing a query in SQL, running it, analysing the results and if the result is not the correct result, analysing the code further to determine why such a result was obtained.   
+
